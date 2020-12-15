@@ -1,0 +1,27 @@
+img.no-resize-a {
+    min-width: 5cm;
+    max-width: 5cm;
+    margin-left: 30 cm;
+}
+
+img.no-resize-b {
+    min-width: 10cm;
+    max-width: 10cm;
+    margin-left: 30 cm;
+}
+
+img.no-resize-c {
+    min-width: 25cm;
+    max-width: 25cm;
+    margin-left: 30 cm;
+}
+
+img.no-resize-d {
+    min-width: 100cm;
+    max-width: 100cm;
+    margin-left: 30 cm;
+}
+
+.table-font-smaller{
+    font-size: 12px;
+}

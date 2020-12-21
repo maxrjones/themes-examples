@@ -62,3 +62,4 @@ plots in multiple sizes for the following configurations:
    modern_alternative3/index.rst
    modern_alternative4/index.rst
    modern_alternative5/index.rst
+   minimal/index.rst

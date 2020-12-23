@@ -11,7 +11,7 @@ plots in multiple sizes for the following configurations:
 .. cssclass:: table-bordered table-font-smaller
 
 +---------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+
-| Parameter                 | Classic                         | Modern (current)                | Modern (alternative #1)         | Modern (alternative #2)         | Modern (alternative #3)         | Modern (alternative #4)         | Modern (alternative #5)         |
+| Parameter                 | Classic                         | Modern (previous)                | Modern (alternative #1)         | Modern (alternative #2)         | Modern (current)         | Modern (alternative #4)         | Modern (alternative #5)         |
 +===========================+=================================+=================================+=================================+=================================+=================================+=================================+=================================+
 | FONT_ANNOT_PRIMARY        | 12p,Helvetica,black             | auto,AvantGarde-Book,black      | auto,AvantGarde-Book,black      | auto,Helvetica,black            | auto,Helvetica,black            | auto,Times-Roman,black          | auto,Times-Roman,black          |
 +---------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+---------------------------------+

@@ -1,7 +1,7 @@
 files='png'
 filedir='source/_static/figures'
 mapwidth="5 10 25 100"
-themes="modern modernA1 modernA2 modernA3 modernA4 modernA5 minimal classic"
+themes="classic modern minimal"
 
 ## Mercator ###
 for t in ${themes}; do

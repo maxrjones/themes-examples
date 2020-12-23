@@ -11,19 +11,19 @@ Configuration settings for modern theme (current)
 +---------------------------+---------------------------------+
 | Pameter                   | Setting                         |
 +===========================+=================================+
-| FONT_ANNOT_PRIMARY        | auto,AvantGarde-Book,black      |
+| FONT_ANNOT_PRIMARY        | auto,Helvetica,black            |
 +---------------------------+---------------------------------+
-| FONT_ANNOT_SECONDARY      | auto,AvantGarde-Book,black      |
+| FONT_ANNOT_SECONDARY      | auto,Helvetica,black            |
 +---------------------------+---------------------------------+
-| FONT_HEADING              | auto,AvantGarde-Demi,black      |
+| FONT_HEADING              | auto,Helvetica-Bold,black       |
 +---------------------------+---------------------------------+
-| FONT_LABEL                | auto,AvantGarde-Book,black      |
+| FONT_LABEL                | auto,Helvetica,black            |
 +---------------------------+---------------------------------+
 | FONT_LOGO                 | auto,Helvetica,black            |
 +---------------------------+---------------------------------+
-| FONT_TAG                  | auto,AvantGarde-Book,black      |
+| FONT_TAG                  | auto,Helvetica,black            |
 +---------------------------+---------------------------------+
-| FONT_TITLE                | auto,AvantGarde-Demi,black      |
+| FONT_TITLE                | auto,Helvetica-Bold,black       |
 +---------------------------+---------------------------------+
 | FORMAT_GEO_MAP            | ddd:mm:ssF                      |
 +---------------------------+---------------------------------+

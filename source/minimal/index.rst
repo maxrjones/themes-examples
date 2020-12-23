@@ -1,7 +1,7 @@
 .. title:: Option 1
 
-Potential minimal theme
-==============================================
+Current minimal theme (AvantGarde, Fancy frame)
+==================================================
 
 Configuration settings for minimal theme
 -------------------------------------------------

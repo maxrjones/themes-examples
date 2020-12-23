@@ -1,6 +1,6 @@
 .. title:: Option 1
 
-Current modern theme (AvantGarde, Plain frame)
+Current modern theme (Helvetica, Fancy frame)
 ==============================================
 
 Configuration settings for modern theme (current)

@@ -51,9 +51,9 @@ plots in multiple sizes for the following configurations:
 +---------------------------+---------------------------------+---------------------------------+---------------------------------+
 | MAP_VECTOR_SHAPE          | 0                               | auto                            | auto                            |
 +---------------------------+---------------------------------+---------------------------------+---------------------------------+
-| MAP_GRID_PEN_PRIMARY      | 0                               | 0                               | thinner, lightgrey              |
+| MAP_GRID_PEN_PRIMARY      | default,black                   | default,black                   | thinner, lightgrey              |
 +---------------------------+---------------------------------+---------------------------------+---------------------------------+
-| MAP_GRID_PEN_SECONDARY    | 0                               | 0                               | thinnest, lightgrey             |
+| MAP_GRID_PEN_SECONDARY    | thinner,black                   | default,black                   | thinnest, lightgrey             |
 +---------------------------+---------------------------------+---------------------------------+---------------------------------+
 
 .. toctree::

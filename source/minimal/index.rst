@@ -1,6 +1,6 @@
 .. title:: Option 1
 
-Current minimal theme (AvantGarde, Fancy frame)
+Current minimal theme (AvantGarde, Plain frame)
 ==================================================
 
 Configuration settings for minimal theme
